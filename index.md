@@ -4,7 +4,7 @@ This is my home page! My name is Ashley Cuevas and I am a student at [Cal State 
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/ashleycuevas
+My GitHub page is [https://github.com/ashleycuevas](https://github.com/)
 
 ### CPSC 120
 
